@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import HeaderSection from "../../components/HeaderSection/HeaderSection";
 import TopWrapper from "../../components/TopWrapper/TopWrapper";
 
 const Wrapper = styled.div`
@@ -12,6 +13,7 @@ const LandingPage = () => {
   return (
     <Wrapper>
       <TopWrapper></TopWrapper>
+      <HeaderSection />
     </Wrapper>
   );
 };
