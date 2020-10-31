@@ -9,6 +9,7 @@ const GlobalStyle = createGlobalStyle`
 
 html {
     width: 100%;
+    font-family: "Montserrat";
 }
 body: {
     width: 100%;
