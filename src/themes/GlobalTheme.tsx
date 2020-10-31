@@ -13,6 +13,7 @@ html {
     width: 100vw;
     min-height: 100vh;
     font-family: "Montserrat";
+    overflow-x: hidden;
 }
 body: {
   
