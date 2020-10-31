@@ -5,15 +5,17 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
+        margin: 0;
+        padding: 0;
 }
 
 html {
-    width: 100%;
+    width: 100vw;
+    min-height: 100vh;
     font-family: "Montserrat";
 }
 body: {
-    width: 100%;
-    min-height: 100%;
+  
 }
 `;
 
