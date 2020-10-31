@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import TopWrapper from "../../components/TopWrapper/TopWrapper";
 
 const Wrapper = styled.div`
   width: 100%;
@@ -8,7 +9,11 @@ const Wrapper = styled.div`
 `;
 
 const LandingPage = () => {
-  return <Wrapper>Landing Page</Wrapper>;
+  return (
+    <Wrapper>
+      <TopWrapper></TopWrapper>
+    </Wrapper>
+  );
 };
 
 export default LandingPage;
