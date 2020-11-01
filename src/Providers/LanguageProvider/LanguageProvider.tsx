@@ -4,20 +4,20 @@ import polish from "../../Language/Polish/polish";
 import { LanguageObject, languages } from "../../typescript/types";
 interface Lang {
   lang: LanguageObject;
-  selectLanguage: (selection: languages) => void;
+  selectLanguage: (selection: boolean) => void;
 }
 
 export const LanguageContext: React.Context<Lang> = createContext({
   lang: english,
-  selectLanguage: (selection: languages) => {},
+  selectLanguage: (selection: boolean) => {},
 });
 
 const LanguageProvider = (props: React.ComponentProps<any>) => {
   const { children } = props;
   const [language, setLanguage] = useState<LanguageObject>(english);
-  const selectLanguage = (selection: languages) => {
+  const selectLanguage = (selection: boolean) => {
     switch (selection) {
-      case "PL": {
+      case true: {
         setLanguage(polish);
         break;
       }

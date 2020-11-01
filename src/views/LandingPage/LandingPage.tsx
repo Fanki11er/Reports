@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import HeaderSection from "../../components/HeaderSection/HeaderSection";
+import LanguageSwitch from "../../components/LanguageSwitch/LanguageSwitch";
 import TopWrapper from "../../components/TopWrapper/TopWrapper";
 
 const Wrapper = styled.div`
@@ -12,7 +13,9 @@ const Wrapper = styled.div`
 const LandingPage = () => {
   return (
     <Wrapper>
-      <TopWrapper></TopWrapper>
+      <TopWrapper>
+        <LanguageSwitch />
+      </TopWrapper>
       <HeaderSection />
     </Wrapper>
   );
