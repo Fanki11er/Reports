@@ -13,7 +13,7 @@ export interface LanguageObject {
   };
 }
 
-export enum languages {
+export enum Languages {
   polish = "PL",
   english = "EN",
 }
