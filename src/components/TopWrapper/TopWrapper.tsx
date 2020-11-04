@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import LogoSvg from "../../assets/svg/Logo.svg";
+import LanguageSwitch from "../LanguageSwitch/LanguageSwitch";
 
 const Wrapper = styled.div`
   width: 100%;
@@ -8,6 +9,7 @@ const Wrapper = styled.div`
   display: flex;
   background-color: transparent;
   padding: 0 50px;
+  position: relative;
 `;
 
 const Logo = styled.img`
@@ -21,6 +23,7 @@ const TopWrapper = (props: React.ComponentProps<any>) => {
     <Wrapper>
       <Logo src={LogoSvg} />
       {children}
+      <LanguageSwitch />
     </Wrapper>
   );
 };

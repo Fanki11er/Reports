@@ -4,13 +4,16 @@ import { LanguageContext } from "../../Providers/LanguageProvider/LanguageProvid
 import { Languages } from "../../typescript/types";
 
 const LanguageSelect = styled.select`
+  position: absolute;
+  right: 60px;
+  top: 20px;
   width: 70px;
   height: 30px;
   color: ${({ theme }) => theme.veryDarkBlue};
   font-weight: bold;
   background-color: ${({ theme }) => theme.secondBackground};
   padding: 0 0 0 15px;
-  border-radius: 15px;
+  border-radius: 12px;
   border: none;
 `;
 
