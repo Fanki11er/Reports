@@ -15,6 +15,12 @@ const LanguageSelect = styled.select`
   padding: 0 0 0 15px;
   border-radius: 12px;
   border: none;
+  transition: box-shadow 0.2s, border 0.2s;
+
+  &:hover {
+    box-shadow: 0px 0px 4px ${({ theme }) => theme.veryDarkBlue};
+    border: 1px solid ${({ theme }) => theme.veryDarkBlue};
+  }
 `;
 
 const LanguageSwitch = () => {
