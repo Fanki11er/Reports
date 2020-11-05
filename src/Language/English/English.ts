@@ -3,6 +3,10 @@ import { LanguageObject } from "../../typescript/types";
 const english: LanguageObject = {
   language: "English",
   strings: {
+    navigation: {
+      signInButton: "Sign in",
+      joinButton: "Join",
+    },
     landingPage: {
       headerSection: {
         firstSpan: "Make",

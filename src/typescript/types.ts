@@ -1,6 +1,10 @@
 export interface LanguageObject {
   language: string;
   strings: {
+    navigation: {
+      signInButton: string;
+      joinButton: string;
+    };
     landingPage: {
       headerSection: {
         firstSpan: string;

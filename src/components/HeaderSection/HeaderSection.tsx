@@ -49,7 +49,6 @@ const HeaderSection = () => {
       descriptionParagraph,
     },
   } = landingPage;
-  console.log(descriptionParagraph);
   return (
     <Wrapper>
       <Line>

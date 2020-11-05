@@ -3,6 +3,10 @@ import { LanguageObject } from "../../typescript/types";
 const polish: LanguageObject = {
   language: "Polish",
   strings: {
+    navigation: {
+      signInButton: "Zaloguj",
+      joinButton: "Dołącz",
+    },
     landingPage: {
       headerSection: {
         firstSpan: "Zrób",
