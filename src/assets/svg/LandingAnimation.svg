@@ -1,0 +1,372 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768.726" height="785.422" viewBox="0 0 768.726 785.422">
+  <g id="LandingAnimation" transform="translate(68.503 -31.546)">
+    <g id="LandingAnimation-2" data-name="LandingAnimation">
+      <g id="Compter" transform="translate(-609 43)">
+        <path id="Path_135" data-name="Path 135" d="M346.274,74.3c22.492-20.115,57.809-24.2,89.947-22.616,100.959,5.038,192.09,53.944,270.915,109.267,28.535,20.027,56.632,41.609,75.157,69.19C820,286.3,808.818,364.074,756.381,410.326c-17.837,15.737-39.46,27.8-61.667,38.5-39.46,19.015-82.069,34.276-126.871,38.625-31.955,3.095-64.305.579-96.063-3.747-88.756-12.071-175.853-38.8-248.861-84.473-32.021-20.042-62.208-44.953-75.405-77.382s-4.75-73.48,27.98-92.694c13.526-7.935,29.7-11.521,45.525-14.887,23.3-4.957,46.979-9.841,68-19.91,21.718-10.406,47.44-30.529,43.114-53.533C327.487,116.1,323.833,94.368,346.274,74.3Z" transform="translate(407.599 552.073) rotate(-48)" fill="#6359d2" opacity="0.52"/>
+        <g id="Laptop" transform="translate(540 166)">
+          <path id="Path_6" data-name="Path 6" d="M853.559,643.274h-440.3A14.763,14.763,0,0,1,398.5,628.511h0q239.41-27.824,469.822,0h0a14.763,14.763,0,0,1-14.763,14.763Z" transform="translate(-203.5 -255.633)" fill="#2f2e41"/>
+          <path id="Path_7" data-name="Path 7" d="M868.322,547.88,398.5,547.012l54.451-91.62.261-.434V253.039a18.661,18.661,0,0,1,18.664-18.663H792.343a18.661,18.661,0,0,1,18.663,18.664V456.347Z" transform="translate(-203.5 -174.134)" fill="#3f3d56"/>
+          <path id="Path_8" data-name="Path 8" d="M489.691,250.957a6.086,6.086,0,0,0-6.079,6.079V441.144a6.086,6.086,0,0,0,6.079,6.079H813.617a6.086,6.086,0,0,0,6.079-6.079V257.035a6.086,6.086,0,0,0-6.079-6.079Z" transform="translate(-221.743 -177.688)" fill="#ecf6ff"/>
+          <path id="Path_9" data-name="Path 9" d="M487.79,531.718a2.612,2.612,0,0,0-2.367,1.516l-16.778,36.474a2.605,2.605,0,0,0,2.367,3.694H823.843a2.6,2.6,0,0,0,2.33-3.771l-18.237-36.474a2.592,2.592,0,0,0-2.33-1.44Z" transform="translate(-218.484 -237.868)" fill="#2f2e41"/>
+          <circle id="Ellipse_2" data-name="Ellipse 2" cx="3.908" cy="3.908" r="3.908" transform="translate(424.7 62.413)" fill="#fff"/>
+          <path id="Path_10" data-name="Path 10" d="M649.841,593.619a2.609,2.609,0,0,0-2.515,1.928l-4.209,15.632a2.6,2.6,0,0,0,2.515,3.283H725.67A2.6,2.6,0,0,0,728.131,611l-5.411-15.632a2.607,2.607,0,0,0-2.462-1.753Z" transform="translate(-255.913 -251.136)" fill="#2f2e41"/>
+          <path id="Path_11" data-name="Path 11" d="M622.361,337.135v3.473H264.306l.269-.434v-3.04Z" transform="translate(-14.855 -59.35)" fill="#2f2e41"/>
+        </g>
+      </g>
+      <g id="Project_sample" data-name="Project sample" transform="translate(22 -112)" opacity="0">
+        <rect id="Rectangle_18" data-name="Rectangle 18" width="257" height="159" rx="10" transform="translate(207 414)" fill="#a2bcea"/>
+        <rect id="Rectangle_19" data-name="Rectangle 19" width="58" height="13" rx="5" transform="translate(226 428)" fill="#11004a"/>
+        <text id="Rozwijak_604-UK_" data-name="Rozwijak 604-UK    " transform="translate(233 437)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve">Rozwijak 604-UK    </tspan></text>
+        <rect id="Rectangle_20" data-name="Rectangle 20" width="132" height="14" rx="5" transform="translate(226 451)" fill="#6291e8"/>
+        <text id="Wpust_DIN6885A_28x16x280_" data-name="Wpust DIN6885A 28x16x280     " transform="translate(231 460)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve">Wpust DIN6885A 28x16x280     </tspan></text>
+        <rect id="Rectangle_21" data-name="Rectangle 21" width="132" height="14" rx="5" transform="translate(226 468)" fill="#6291e8"/>
+        <text id="Nypel_hydrauliczny_1_4_" data-name="Nypel hydrauliczny 1/4&apos;&apos;      " transform="translate(231 477)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve">Nypel hydrauliczny 1/4&apos;&apos;      </tspan></text>
+        <rect id="Rectangle_22" data-name="Rectangle 22" width="132" height="14" rx="5" transform="translate(226 485)" fill="#6291e8"/>
+        <text id="Nypel_hydrauliczny_G1_2-G1_2_" data-name="Nypel hydrauliczny G1/2-G1/2      " transform="translate(231 494)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve">Nypel hydrauliczny G1/2-G1/2      </tspan></text>
+        <rect id="Rectangle_23" data-name="Rectangle 23" width="132" height="14" rx="5" transform="translate(226 502)" fill="#6291e8"/>
+        <text id="Pierścień_zacin_8_" data-name="Pierścień zacin 8 " transform="translate(231 511)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Pierścień zacin 8 </tspan></text>
+        <rect id="Rectangle_24" data-name="Rectangle 24" width="132" height="14" rx="5" transform="translate(226 519)" fill="#6291e8"/>
+        <text id="Łożysko_6212_2RS_" data-name="Łożysko 6212_2RS " transform="translate(231 528)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Łożysko 6212_2RS </tspan></text>
+        <rect id="Rectangle_25" data-name="Rectangle 25" width="132" height="14" rx="5" transform="translate(226 536)" fill="#6291e8"/>
+        <text id="Zespół_łoż_UCFC_212_" data-name="Zespół łoż UCFC_212      " transform="translate(231 545)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve">Zespół łoż UCFC_212      </tspan></text>
+        <g id="Group_21" data-name="Group 21" transform="translate(-1560 -2296)">
+          <rect id="Rectangle_16" data-name="Rectangle 16" width="18" height="14" rx="5" transform="translate(1919 2747)" fill="#6291e8"/>
+          <text id="_2" data-name="2" transform="translate(1927 2756)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <g id="Group_22" data-name="Group 22" transform="translate(-1560 -2279)">
+          <rect id="Rectangle_16-2" data-name="Rectangle 16" width="18" height="14" rx="5" transform="translate(1919 2747)" fill="#6291e8"/>
+          <text id="_8" data-name="8" transform="translate(1927 2756)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">8</tspan></text>
+        </g>
+        <g id="Group_23" data-name="Group 23" transform="translate(-1560 -2262)">
+          <rect id="Rectangle_16-3" data-name="Rectangle 16" width="18" height="14" rx="5" transform="translate(1919 2747)" fill="#6291e8"/>
+          <text id="_4" data-name="4" transform="translate(1927 2756)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4</tspan></text>
+        </g>
+        <g id="Group_24" data-name="Group 24" transform="translate(-1560 -2245)">
+          <rect id="Rectangle_16-4" data-name="Rectangle 16" width="18" height="14" rx="5" transform="translate(1919 2747)" fill="#6291e8"/>
+          <text id="_2-2" data-name="2" transform="translate(1927 2756)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <g id="Group_25" data-name="Group 25" transform="translate(-1560 -2228)">
+          <rect id="Rectangle_16-5" data-name="Rectangle 16" width="18" height="14" rx="5" transform="translate(1919 2747)" fill="#6291e8"/>
+          <text id="_3" data-name="3" transform="translate(1927 2756)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+        </g>
+        <g id="Group_26" data-name="Group 26" transform="translate(-1560 -2211)">
+          <rect id="Rectangle_16-6" data-name="Rectangle 16" width="18" height="14" rx="5" transform="translate(1919 2747)" fill="#6291e8"/>
+          <text id="_20" data-name="20" transform="translate(1925 2756)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">20</tspan></text>
+        </g>
+        <g id="Group_27" data-name="Group 27" transform="translate(-1543 -2296)">
+          <rect id="Rectangle_16-7" data-name="Rectangle 16" width="44" height="14" rx="5" transform="translate(1921 2747)" fill="#6291e8"/>
+        </g>
+        <g id="Group_28" data-name="Group 28" transform="translate(-1543 -2279)">
+          <rect id="Rectangle_16-8" data-name="Rectangle 16" width="44" height="14" rx="5" transform="translate(1921 2747)" fill="#6291e8"/>
+        </g>
+        <g id="Group_29" data-name="Group 29" transform="translate(-1543 -2262)">
+          <rect id="Rectangle_16-9" data-name="Rectangle 16" width="44" height="14" rx="5" transform="translate(1921 2747)" fill="#6291e8"/>
+        </g>
+        <g id="Group_30" data-name="Group 30" transform="translate(-1543 -2245)">
+          <rect id="Rectangle_16-10" data-name="Rectangle 16" width="44" height="14" rx="5" transform="translate(1921 2747)" fill="#6291e8"/>
+        </g>
+        <g id="Group_31" data-name="Group 31" transform="translate(-1543 -2228)">
+          <rect id="Rectangle_16-11" data-name="Rectangle 16" width="44" height="14" rx="5" transform="translate(1921 2747)" fill="#6291e8"/>
+        </g>
+        <g id="Group_32" data-name="Group 32" transform="translate(-1543 -2211)">
+          <rect id="Rectangle_16-12" data-name="Rectangle 16" width="44" height="14" rx="5" transform="translate(1921 2747)" fill="#6291e8"/>
+        </g>
+        <g id="FirstButton" transform="translate(-1493.182 -2296)">
+          <rect id="Rectangle_16-13" data-name="Rectangle 16" width="29" height="14" rx="5" transform="translate(1921.182 2747)" fill="#d8e0f0"/>
+        </g>
+        <g id="SecondButton" transform="translate(-1493.182 -2279)">
+          <rect id="Rectangle_16-14" data-name="Rectangle 16" width="29" height="14" rx="5" transform="translate(1921.182 2747)" fill="#d8e0f0"/>
+        </g>
+        <g id="ThirdButton" transform="translate(-1493.182 -2262)">
+          <rect id="Rectangle_16-15" data-name="Rectangle 16" width="29" height="14" rx="5" transform="translate(1921.182 2747)" fill="#d8e0f0"/>
+        </g>
+        <g id="FourthButton" transform="translate(-1493.182 -2245)">
+          <rect id="Rectangle_16-16" data-name="Rectangle 16" width="29" height="14" rx="5" transform="translate(1921.182 2747)" fill="#d8e0f0"/>
+        </g>
+        <g id="FifthButton" transform="translate(-1493.182 -2228)">
+          <rect id="Rectangle_16-17" data-name="Rectangle 16" width="29" height="14" rx="5" transform="translate(1921.182 2747)" fill="#d8e0f0"/>
+        </g>
+        <g id="Group_38" data-name="Group 38" transform="translate(-1493.182 -2211)">
+          <rect id="Rectangle_16-18" data-name="Rectangle 16" width="29" height="14" rx="5" transform="translate(1921.182 2747)" fill="#d8e0f0"/>
+        </g>
+        <g id="Group_39" data-name="Group 39" transform="translate(-1529 -2319)">
+          <rect id="Rectangle_16-19" data-name="Rectangle 16" width="44" height="13" rx="5" transform="translate(1921 2747)" fill="#11004a"/>
+        </g>
+        <g id="Group_40" data-name="Group 40" transform="translate(339 429)">
+          <rect id="Rectangle_16-20" data-name="Rectangle 16" width="44" height="13" rx="5" transform="translate(0 -1)" fill="#11004a"/>
+        </g>
+        <text id="Close" transform="translate(353 437)" fill="#00ff83" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Close</tspan></text>
+        <text id="End" transform="translate(406 437)" fill="#ffa4a7" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">End</tspan></text>
+      </g>
+    </g>
+    <g id="Excel_Image" data-name="Excel Image" transform="translate(145 214)">
+      <path id="Path_1" data-name="Path 1" d="M0,0H244.768V138.923H0Z" transform="translate(90 84.438)" fill="none"/>
+      <g id="Top_cell" data-name="Top cell" transform="translate(101.344 83)">
+        <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(-0.344)" fill="#e6e6e6" stroke="#707070" stroke-width="1">
+          <rect width="160" height="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="159" height="14" fill="none"/>
+        </g>
+        <text id="A" transform="translate(74.656 7)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">A</tspan></text>
+      </g>
+      <g id="Left_cell" data-name="Left cell" transform="translate(90 97.747)">
+        <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(0 0.253)" fill="#e6e6e6" stroke="#707070" stroke-width="1">
+          <rect width="12" height="13" stroke="none"/>
+          <rect x="0.5" y="0.5" width="11" height="12" fill="none"/>
+        </g>
+        <text id="_1" data-name="1" transform="translate(3 7.253)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+      </g>
+      <g id="Left_cell-2" data-name="Left cell" transform="translate(90 111.36)">
+        <g id="Rectangle_7-2" data-name="Rectangle 7" transform="translate(0 -0.36)" fill="#e6e6e6" stroke="#707070" stroke-width="1">
+          <rect width="12" height="14" stroke="none"/>
+          <rect x="0.5" y="0.5" width="11" height="13" fill="none"/>
+        </g>
+        <text id="_2-3" data-name="2" transform="translate(3 6.64)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+      </g>
+      <g id="Left_cell-3" data-name="Left cell" transform="translate(90 124.973)">
+        <g id="Rectangle_7-3" data-name="Rectangle 7" transform="translate(0 0.027)" fill="#e6e6e6" stroke="#707070" stroke-width="1">
+          <rect width="12" height="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="11" height="14" fill="none"/>
+        </g>
+        <text id="_3-2" data-name="3" transform="translate(3 7.027)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+      </g>
+      <g id="Left_cell-4" data-name="Left cell" transform="translate(90 138.586)">
+        <g id="Rectangle_7-4" data-name="Rectangle 7" transform="translate(0 0.414)" fill="#e6e6e6" stroke="#707070" stroke-width="1">
+          <rect width="12" height="14" stroke="none"/>
+          <rect x="0.5" y="0.5" width="11" height="13" fill="none"/>
+        </g>
+        <text id="_4-2" data-name="4" transform="translate(3 8.414)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4</tspan></text>
+      </g>
+      <g id="Left_cell-5" data-name="Left cell" transform="translate(90 153.333)">
+        <g id="Rectangle_7-5" data-name="Rectangle 7" transform="translate(0 -0.333)" fill="#e6e6e6" stroke="#707070" stroke-width="1">
+          <rect width="12" height="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="11" height="14" fill="none"/>
+        </g>
+        <text id="_5" data-name="5" transform="translate(3 6.667)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">5</tspan></text>
+      </g>
+      <g id="Left_cell-6" data-name="Left cell" transform="translate(90 166.946)">
+        <g id="Rectangle_7-6" data-name="Rectangle 7" transform="translate(0 0.054)" fill="#e6e6e6" stroke="#707070" stroke-width="1">
+          <rect width="12" height="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="11" height="14" fill="none"/>
+        </g>
+        <text id="_6" data-name="6" transform="translate(3 7.054)" font-size="6" font-family="SegoeUI, Segoe UI" opacity="0.6"><tspan x="0" y="0">6</tspan></text>
+      </g>
+      <g id="Left_cell-7" data-name="Left cell" transform="translate(90 180.559)">
+        <g id="Rectangle_7-7" data-name="Rectangle 7" transform="translate(0 0.441)" fill="#e6e6e6" stroke="#707070" stroke-width="1">
+          <rect width="12" height="14" stroke="none"/>
+          <rect x="0.5" y="0.5" width="11" height="13" fill="none"/>
+        </g>
+        <text id="_7" data-name="7" transform="translate(3 7.441)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">7</tspan></text>
+      </g>
+      <g id="Left_cell-8" data-name="Left cell" transform="translate(90 194.172)">
+        <g id="Rectangle_7-8" data-name="Rectangle 7" transform="translate(0 -0.172)" fill="#e6e6e6" stroke="#707070" stroke-width="1">
+          <rect width="12" height="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="11" height="14" fill="none"/>
+        </g>
+        <text id="_8-2" data-name="8" transform="translate(3 7.828)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">8</tspan></text>
+      </g>
+      <g id="Left_cell-9" data-name="Left cell" transform="translate(90 208.919)">
+        <g id="Rectangle_7-9" data-name="Rectangle 7" transform="translate(0 0.081)" fill="#e6e6e6" stroke="#707070" stroke-width="1">
+          <rect width="12" height="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="11" height="14" fill="none"/>
+        </g>
+        <text id="_9" data-name="9" transform="translate(3 7.081)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">9</tspan></text>
+      </g>
+      <g id="Top_cell-2" data-name="Top cell" transform="translate(261.295 83)">
+        <g id="Rectangle_6-2" data-name="Rectangle 6" transform="translate(-0.295)" fill="#e6e6e6" stroke="#707070" stroke-width="1">
+          <rect width="18" height="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="17" height="14" fill="none"/>
+        </g>
+        <text id="B" transform="translate(5.705 7)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">B</tspan></text>
+      </g>
+      <g id="Top_cell-3" data-name="Top cell" transform="translate(278.312 83)">
+        <g id="Rectangle_6-3" data-name="Rectangle 6" transform="translate(-0.312)" fill="#e6e6e6" stroke="#707070" stroke-width="1">
+          <rect width="57" height="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="56" height="14" fill="none"/>
+        </g>
+        <text id="C" transform="translate(24.688 7)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">C</tspan></text>
+      </g>
+      <g id="Top_cell-4" data-name="Top cell" transform="translate(102.08 97.094)">
+        <g id="Path_2" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 158.5561981201172 13.88120555877686 L 0.5000114440917969 13.88120555877686 L 0.5000114440917969 0.5000056624412537 L 158.5561981201172 0.5000056624412537 L 158.5561981201172 13.88120555877686 Z" stroke="none"/>
+          <path d="M 0.9999847412109375 1.000001907348633 L 0.9999847412109375 13.38121032714844 L 158.0561676025391 13.38121032714844 L 158.0561676025391 1.000001907348633 L 0.9999847412109375 1.000001907348633 M -1.52587890625e-05 1.9073486328125e-06 L 159.0561676025391 1.9073486328125e-06 L 159.0561676025391 14.38120937347412 L -1.52587890625e-05 14.38120937347412 L -1.52587890625e-05 1.9073486328125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+        <text id="Wpust_DIN6885A_28x16x280_2" data-name="Wpust DIN6885A 28x16x280 " transform="translate(21.92 7.906)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Wpust DIN6885A 28x16x280 </tspan></text>
+      </g>
+      <g id="Top_cell-5" data-name="Top cell" transform="translate(102.08 111.187)">
+        <g id="Path_2-2" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 158.5561981201172 13.88120555877686 L 0.5000114440917969 13.88120555877686 L 0.5000114440917969 0.5000056624412537 L 158.5561981201172 0.5000056624412537 L 158.5561981201172 13.88120555877686 Z" stroke="none"/>
+          <path d="M 0.9999847412109375 1.000001907348633 L 0.9999847412109375 13.38121032714844 L 158.0561676025391 13.38121032714844 L 158.0561676025391 1.000001907348633 L 0.9999847412109375 1.000001907348633 M -1.52587890625e-05 1.9073486328125e-06 L 159.0561676025391 1.9073486328125e-06 L 159.0561676025391 14.38120937347412 L -1.52587890625e-05 14.38120937347412 L -1.52587890625e-05 1.9073486328125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+        <text id="Nypel_hydrauliczny_1_4_2" data-name="Nypel hydrauliczny 1/4&apos;&apos; " transform="translate(21.92 6.813)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Nypel hydrauliczny 1/4&apos;&apos; </tspan></text>
+      </g>
+      <g id="Top_cell-6" data-name="Top cell" transform="translate(102.08 125.281)">
+        <g id="Path_2-3" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 158.5561981201172 13.88120555877686 L 0.5000114440917969 13.88120555877686 L 0.5000114440917969 0.5000056624412537 L 158.5561981201172 0.5000056624412537 L 158.5561981201172 13.88120555877686 Z" stroke="none"/>
+          <path d="M 0.9999847412109375 1.000001907348633 L 0.9999847412109375 13.38121032714844 L 158.0561676025391 13.38121032714844 L 158.0561676025391 1.000001907348633 L 0.9999847412109375 1.000001907348633 M -1.52587890625e-05 1.9073486328125e-06 L 159.0561676025391 1.9073486328125e-06 L 159.0561676025391 14.38120937347412 L -1.52587890625e-05 14.38120937347412 L -1.52587890625e-05 1.9073486328125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+        <text id="Nypel_hydrauliczny_G1_2-G1_2_2" data-name="Nypel hydrauliczny G1/2-G1/2 " transform="translate(21.92 6.719)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Nypel hydrauliczny G1/2-G1/2 </tspan></text>
+      </g>
+      <g id="Top_cell-7" data-name="Top cell" transform="translate(102.08 139.374)">
+        <g id="Path_2-4" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 158.5561981201172 13.59359264373779 L 0.5000114440917969 13.59359264373779 L 0.5000114440917969 0.4999929964542389 L 158.5561981201172 0.4999929964542389 L 158.5561981201172 13.59359264373779 Z" stroke="none"/>
+          <path d="M 0.9999847412109375 1.000000953674316 L 0.9999847412109375 13.09358501434326 L 158.0561676025391 13.09358501434326 L 158.0561676025391 1.000000953674316 L 0.9999847412109375 1.000000953674316 M -1.52587890625e-05 9.5367431640625e-07 L 159.0561676025391 9.5367431640625e-07 L 159.0561676025391 14.09358501434326 L -1.52587890625e-05 14.09358501434326 L -1.52587890625e-05 9.5367431640625e-07 Z" stroke="none" fill="#707070"/>
+        </g>
+        <text id="Pierścień_zacin_8_2" data-name="Pierścień zacin 8 " transform="translate(21.92 7.626)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Pierścień zacin 8 </tspan></text>
+      </g>
+      <g id="Top_cell-8" data-name="Top cell" transform="translate(102.08 153.18)">
+        <g id="Path_2-5" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 158.5561981201172 13.57920455932617 L 0.5000114440917969 13.57920455932617 L 0.5000114440917969 0.5000046491622925 L 158.5561981201172 0.5000046491622925 L 158.5561981201172 13.57920455932617 Z" stroke="none"/>
+          <path d="M 0.9999847412109375 1.000000953674316 L 0.9999847412109375 13.07920837402344 L 158.0561676025391 13.07920837402344 L 158.0561676025391 1.000000953674316 L 0.9999847412109375 1.000000953674316 M -1.52587890625e-05 9.5367431640625e-07 L 159.0561676025391 9.5367431640625e-07 L 159.0561676025391 14.07920837402344 L -1.52587890625e-05 14.07920837402344 L -1.52587890625e-05 9.5367431640625e-07 Z" stroke="none" fill="#707070"/>
+        </g>
+        <text id="Łożysko_6212_2RS_2" data-name="Łożysko 6212_2RS " transform="translate(21.92 6.82)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Łożysko 6212_2RS </tspan></text>
+      </g>
+      <g id="Top_cell-9" data-name="Top cell" transform="translate(102.08 166.986)">
+        <g id="Path_2-6" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 158.5561981201172 13.57920455932617 L 0.5000114440917969 13.57920455932617 L 0.5000114440917969 0.5000046491622925 L 158.5561981201172 0.5000046491622925 L 158.5561981201172 13.57920455932617 Z" stroke="none"/>
+          <path d="M 0.9999847412109375 1.000000953674316 L 0.9999847412109375 13.07920837402344 L 158.0561676025391 13.07920837402344 L 158.0561676025391 1.000000953674316 L 0.9999847412109375 1.000000953674316 M -1.52587890625e-05 9.5367431640625e-07 L 159.0561676025391 9.5367431640625e-07 L 159.0561676025391 14.07920837402344 L -1.52587890625e-05 14.07920837402344 L -1.52587890625e-05 9.5367431640625e-07 Z" stroke="none" fill="#707070"/>
+        </g>
+        <text id="Zespół_łoż_UCFC_212_2" data-name="Zespół łoż UCFC_212 " transform="translate(21.92 7.014)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Zespół łoż UCFC_212 </tspan></text>
+      </g>
+      <g id="Top_cell-10" data-name="Top cell" transform="translate(102.08 180.792)">
+        <g id="Path_2-7" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 158.5561981201172 13.88120555877686 L 0.5000114440917969 13.88120555877686 L 0.5000114440917969 0.5000056624412537 L 158.5561981201172 0.5000056624412537 L 158.5561981201172 13.88120555877686 Z" stroke="none"/>
+          <path d="M 0.9999847412109375 1.000001907348633 L 0.9999847412109375 13.38121032714844 L 158.0561676025391 13.38121032714844 L 158.0561676025391 1.000001907348633 L 0.9999847412109375 1.000001907348633 M -1.52587890625e-05 1.9073486328125e-06 L 159.0561676025391 1.9073486328125e-06 L 159.0561676025391 14.38120937347412 L -1.52587890625e-05 14.38120937347412 L -1.52587890625e-05 1.9073486328125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Top_cell-11" data-name="Top cell" transform="translate(102.08 208.979)">
+        <g id="Path_2-8" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 158.5561981201172 13.88120555877686 L 0.5000114440917969 13.88120555877686 L 0.5000114440917969 0.5000056624412537 L 158.5561981201172 0.5000056624412537 L 158.5561981201172 13.88120555877686 Z" stroke="none"/>
+          <path d="M 0.9999847412109375 1.000001907348633 L 0.9999847412109375 13.38121032714844 L 158.0561676025391 13.38121032714844 L 158.0561676025391 1.000001907348633 L 0.9999847412109375 1.000001907348633 M -1.52587890625e-05 1.9073486328125e-06 L 159.0561676025391 1.9073486328125e-06 L 159.0561676025391 14.38120937347412 L -1.52587890625e-05 14.38120937347412 L -1.52587890625e-05 1.9073486328125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Top_cell-12" data-name="Top cell" transform="translate(260.849 97.094)">
+        <g id="Path_3" data-name="Path 3" transform="translate(0 0)" fill="#fff">
+          <path d="M 17.62032318115234 13.88121604919434 L 0.5000035166740417 13.88121604919434 L 0.5000035166740417 0.4999956488609314 L 17.62032318115234 0.4999956488609314 L 17.62032318115234 13.88121604919434 Z" stroke="none"/>
+          <path d="M 1.000003814697266 0.999995231628418 L 1.000003814697266 13.38121604919434 L 17.12032318115234 13.38121604919434 L 17.12032318115234 0.999995231628418 L 1.000003814697266 0.999995231628418 M 3.814697265625e-06 -4.76837158203125e-06 L 18.12032318115234 -4.76837158203125e-06 L 18.12032318115234 14.38121604919434 L 3.814697265625e-06 14.38121604919434 L 3.814697265625e-06 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+        <text id="_2-4" data-name="2" transform="translate(6.151 7.906)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+      </g>
+      <g id="Top_cell-13" data-name="Top cell" transform="translate(260.849 111.187)">
+        <g id="Path_3-2" data-name="Path 3" transform="translate(0 0)" fill="#fff">
+          <path d="M 17.62032318115234 13.88121604919434 L 0.5000035166740417 13.88121604919434 L 0.5000035166740417 0.4999956488609314 L 17.62032318115234 0.4999956488609314 L 17.62032318115234 13.88121604919434 Z" stroke="none"/>
+          <path d="M 1.000003814697266 0.999995231628418 L 1.000003814697266 13.38121604919434 L 17.12032318115234 13.38121604919434 L 17.12032318115234 0.999995231628418 L 1.000003814697266 0.999995231628418 M 3.814697265625e-06 -4.76837158203125e-06 L 18.12032318115234 -4.76837158203125e-06 L 18.12032318115234 14.38121604919434 L 3.814697265625e-06 14.38121604919434 L 3.814697265625e-06 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+        <text id="_8-3" data-name="8" transform="translate(6.151 6.813)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">8</tspan></text>
+      </g>
+      <g id="Top_cell-14" data-name="Top cell" transform="translate(260.849 125.281)">
+        <g id="Path_3-3" data-name="Path 3" transform="translate(0 0)" fill="#fff">
+          <path d="M 17.62032318115234 13.88121604919434 L 0.5000035166740417 13.88121604919434 L 0.5000035166740417 0.4999956488609314 L 17.62032318115234 0.4999956488609314 L 17.62032318115234 13.88121604919434 Z" stroke="none"/>
+          <path d="M 1.000003814697266 0.999995231628418 L 1.000003814697266 13.38121604919434 L 17.12032318115234 13.38121604919434 L 17.12032318115234 0.999995231628418 L 1.000003814697266 0.999995231628418 M 3.814697265625e-06 -4.76837158203125e-06 L 18.12032318115234 -4.76837158203125e-06 L 18.12032318115234 14.38121604919434 L 3.814697265625e-06 14.38121604919434 L 3.814697265625e-06 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+        <text id="_4-3" data-name="4" transform="translate(6.151 6.719)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4</tspan></text>
+      </g>
+      <g id="Top_cell-15" data-name="Top cell" transform="translate(260.849 139.374)">
+        <g id="Path_3-4" data-name="Path 3" transform="translate(0 0)" fill="#fff">
+          <path d="M 17.62032318115234 13.59358310699463 L 0.5000035166740417 13.59358310699463 L 0.5000035166740417 0.5000029802322388 L 17.62032318115234 0.5000029802322388 L 17.62032318115234 13.59358310699463 Z" stroke="none"/>
+          <path d="M 1.000003814697266 1.000002861022949 L 1.000003814697266 13.09358310699463 L 17.12032318115234 13.09358310699463 L 17.12032318115234 1.000002861022949 L 1.000003814697266 1.000002861022949 M 3.814697265625e-06 2.86102294921875e-06 L 18.12032318115234 2.86102294921875e-06 L 18.12032318115234 14.09358310699463 L 3.814697265625e-06 14.09358310699463 L 3.814697265625e-06 2.86102294921875e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+        <text id="_2-5" data-name="2" transform="translate(6.151 7.626)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+      </g>
+      <g id="Top_cell-16" data-name="Top cell" transform="translate(260.849 153.18)">
+        <g id="Path_3-5" data-name="Path 3" transform="translate(0 0)" fill="#fff">
+          <path d="M 17.62032318115234 13.59358310699463 L 0.5000035166740417 13.59358310699463 L 0.5000035166740417 0.5000029802322388 L 17.62032318115234 0.5000029802322388 L 17.62032318115234 13.59358310699463 Z" stroke="none"/>
+          <path d="M 1.000003814697266 1.000002861022949 L 1.000003814697266 13.09358310699463 L 17.12032318115234 13.09358310699463 L 17.12032318115234 1.000002861022949 L 1.000003814697266 1.000002861022949 M 3.814697265625e-06 2.86102294921875e-06 L 18.12032318115234 2.86102294921875e-06 L 18.12032318115234 14.09358310699463 L 3.814697265625e-06 14.09358310699463 L 3.814697265625e-06 2.86102294921875e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+        <text id="_3-3" data-name="3" transform="translate(6.151 6.82)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+      </g>
+      <g id="Top_cell-17" data-name="Top cell" transform="translate(260.849 166.986)">
+        <g id="Path_3-6" data-name="Path 3" transform="translate(0 0)" fill="#fff">
+          <path d="M 17.62032318115234 13.59358310699463 L 0.5000035166740417 13.59358310699463 L 0.5000035166740417 0.5000029802322388 L 17.62032318115234 0.5000029802322388 L 17.62032318115234 13.59358310699463 Z" stroke="none"/>
+          <path d="M 1.000003814697266 1.000002861022949 L 1.000003814697266 13.09358310699463 L 17.12032318115234 13.09358310699463 L 17.12032318115234 1.000002861022949 L 1.000003814697266 1.000002861022949 M 3.814697265625e-06 2.86102294921875e-06 L 18.12032318115234 2.86102294921875e-06 L 18.12032318115234 14.09358310699463 L 3.814697265625e-06 14.09358310699463 L 3.814697265625e-06 2.86102294921875e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+        <text id="_20-2" data-name="20" transform="translate(5.151 7.014)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">20</tspan></text>
+      </g>
+      <g id="Top_cell-18" data-name="Top cell" transform="translate(260.849 180.792)">
+        <g id="Path_3-7" data-name="Path 3" transform="translate(0 0)" fill="#fff">
+          <path d="M 17.62032318115234 13.88121604919434 L 0.5000035166740417 13.88121604919434 L 0.5000035166740417 0.4999956488609314 L 17.62032318115234 0.4999956488609314 L 17.62032318115234 13.88121604919434 Z" stroke="none"/>
+          <path d="M 1.000003814697266 0.999995231628418 L 1.000003814697266 13.38121604919434 L 17.12032318115234 13.38121604919434 L 17.12032318115234 0.999995231628418 L 1.000003814697266 0.999995231628418 M 3.814697265625e-06 -4.76837158203125e-06 L 18.12032318115234 -4.76837158203125e-06 L 18.12032318115234 14.38121604919434 L 3.814697265625e-06 14.38121604919434 L 3.814697265625e-06 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Top_cell-19" data-name="Top cell" transform="translate(260.849 194.886)">
+        <g id="Path_3-8" data-name="Path 3" transform="translate(0 0)" fill="#fff">
+          <path d="M 17.62032318115234 13.88121604919434 L 0.5000035166740417 13.88121604919434 L 0.5000035166740417 0.4999956488609314 L 17.62032318115234 0.4999956488609314 L 17.62032318115234 13.88121604919434 Z" stroke="none"/>
+          <path d="M 1.000003814697266 0.999995231628418 L 1.000003814697266 13.38121604919434 L 17.12032318115234 13.38121604919434 L 17.12032318115234 0.999995231628418 L 1.000003814697266 0.999995231628418 M 3.814697265625e-06 -4.76837158203125e-06 L 18.12032318115234 -4.76837158203125e-06 L 18.12032318115234 14.38121604919434 L 3.814697265625e-06 14.38121604919434 L 3.814697265625e-06 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Top_cell-20" data-name="Top cell" transform="translate(260.849 208.979)">
+        <g id="Path_3-9" data-name="Path 3" transform="translate(0 0)" fill="#fff">
+          <path d="M 17.62032318115234 13.88121604919434 L 0.5000035166740417 13.88121604919434 L 0.5000035166740417 0.4999956488609314 L 17.62032318115234 0.4999956488609314 L 17.62032318115234 13.88121604919434 Z" stroke="none"/>
+          <path d="M 1.000003814697266 0.999995231628418 L 1.000003814697266 13.38121604919434 L 17.12032318115234 13.38121604919434 L 17.12032318115234 0.999995231628418 L 1.000003814697266 0.999995231628418 M 3.814697265625e-06 -4.76837158203125e-06 L 18.12032318115234 -4.76837158203125e-06 L 18.12032318115234 14.38121604919434 L 3.814697265625e-06 14.38121604919434 L 3.814697265625e-06 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Top_cell-21" data-name="Top cell" transform="translate(102.08 194.886)">
+        <g id="Path_2-9" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 158.5561981201172 13.88120555877686 L 0.5000114440917969 13.88120555877686 L 0.5000114440917969 0.5000056624412537 L 158.5561981201172 0.5000056624412537 L 158.5561981201172 13.88120555877686 Z" stroke="none"/>
+          <path d="M 0.9999847412109375 1.000001907348633 L 0.9999847412109375 13.38121032714844 L 158.0561676025391 13.38121032714844 L 158.0561676025391 1.000001907348633 L 0.9999847412109375 1.000001907348633 M -1.52587890625e-05 1.9073486328125e-06 L 159.0561676025391 1.9073486328125e-06 L 159.0561676025391 14.38120937347412 L -1.52587890625e-05 14.38120937347412 L -1.52587890625e-05 1.9073486328125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Left_cell-10" data-name="Left cell" transform="translate(90 83)">
+        <g id="Rectangle_7-10" data-name="Rectangle 7" fill="#e6e6e6" stroke="#707070" stroke-width="1">
+          <rect width="12" height="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="11" height="14" fill="none"/>
+        </g>
+      </g>
+      <g id="Top_cell-22" data-name="Top cell" transform="translate(278.598 97.094)">
+        <g id="Path_2-10" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 55.67011260986328 13.88121604919434 L 0.5000044107437134 13.88121604919434 L 0.5000044107437134 0.4999956488609314 L 55.67011260986328 0.4999956488609314 L 55.67011260986328 13.88121604919434 Z" stroke="none"/>
+          <path d="M 0.9999961853027344 0.999995231628418 L 0.9999961853027344 13.38121604919434 L 55.17010498046875 13.38121604919434 L 55.17010498046875 0.999995231628418 L 0.9999961853027344 0.999995231628418 M -3.814697265625e-06 -4.76837158203125e-06 L 56.17010498046875 -4.76837158203125e-06 L 56.17010498046875 14.38121604919434 L -3.814697265625e-06 14.38121604919434 L -3.814697265625e-06 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Top_cell-23" data-name="Top cell" transform="translate(278.598 111.187)">
+        <g id="Path_2-11" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 55.67011260986328 13.88121604919434 L 0.5000044107437134 13.88121604919434 L 0.5000044107437134 0.4999956488609314 L 55.67011260986328 0.4999956488609314 L 55.67011260986328 13.88121604919434 Z" stroke="none"/>
+          <path d="M 0.9999961853027344 0.999995231628418 L 0.9999961853027344 13.38121604919434 L 55.17010498046875 13.38121604919434 L 55.17010498046875 0.999995231628418 L 0.9999961853027344 0.999995231628418 M -3.814697265625e-06 -4.76837158203125e-06 L 56.17010498046875 -4.76837158203125e-06 L 56.17010498046875 14.38121604919434 L -3.814697265625e-06 14.38121604919434 L -3.814697265625e-06 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Top_cell-24" data-name="Top cell" transform="translate(278.598 125.281)">
+        <g id="Path_2-12" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 55.67011260986328 13.88121604919434 L 0.5000044107437134 13.88121604919434 L 0.5000044107437134 0.4999956488609314 L 55.67011260986328 0.4999956488609314 L 55.67011260986328 13.88121604919434 Z" stroke="none"/>
+          <path d="M 0.9999961853027344 0.999995231628418 L 0.9999961853027344 13.38121604919434 L 55.17010498046875 13.38121604919434 L 55.17010498046875 0.999995231628418 L 0.9999961853027344 0.999995231628418 M -3.814697265625e-06 -4.76837158203125e-06 L 56.17010498046875 -4.76837158203125e-06 L 56.17010498046875 14.38121604919434 L -3.814697265625e-06 14.38121604919434 L -3.814697265625e-06 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Top_cell-25" data-name="Top cell" transform="translate(278.598 166.411)">
+        <g id="Path_2-13" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 55.67011260986328 14.16883754730225 L 0.5000044107437134 14.16883754730225 L 0.5000044107437134 0.4999978244304657 L 55.67011260986328 0.4999978244304657 L 55.67011260986328 14.16883754730225 Z" stroke="none"/>
+          <path d="M 0.9999961853027344 0.9999980926513672 L 0.9999961853027344 13.66883754730225 L 55.17010498046875 13.66883754730225 L 55.17010498046875 0.9999980926513672 L 0.9999961853027344 0.9999980926513672 M -3.814697265625e-06 -1.9073486328125e-06 L 56.17010498046875 -1.9073486328125e-06 L 56.17010498046875 14.66883754730225 L -3.814697265625e-06 14.66883754730225 L -3.814697265625e-06 -1.9073486328125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Top_cell-26" data-name="Top cell" transform="translate(278.598 180.792)">
+        <g id="Path_2-14" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 55.67011260986328 13.88121604919434 L 0.5000044107437134 13.88121604919434 L 0.5000044107437134 0.4999956488609314 L 55.67011260986328 0.4999956488609314 L 55.67011260986328 13.88121604919434 Z" stroke="none"/>
+          <path d="M 0.9999961853027344 0.999995231628418 L 0.9999961853027344 13.38121604919434 L 55.17010498046875 13.38121604919434 L 55.17010498046875 0.999995231628418 L 0.9999961853027344 0.999995231628418 M -3.814697265625e-06 -4.76837158203125e-06 L 56.17010498046875 -4.76837158203125e-06 L 56.17010498046875 14.38121604919434 L -3.814697265625e-06 14.38121604919434 L -3.814697265625e-06 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Top_cell-27" data-name="Top cell" transform="translate(278.598 194.886)">
+        <g id="Path_2-15" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 55.67011260986328 13.88121604919434 L 0.5000044107437134 13.88121604919434 L 0.5000044107437134 0.4999956488609314 L 55.67011260986328 0.4999956488609314 L 55.67011260986328 13.88121604919434 Z" stroke="none"/>
+          <path d="M 0.9999961853027344 0.999995231628418 L 0.9999961853027344 13.38121604919434 L 55.17010498046875 13.38121604919434 L 55.17010498046875 0.999995231628418 L 0.9999961853027344 0.999995231628418 M -3.814697265625e-06 -4.76837158203125e-06 L 56.17010498046875 -4.76837158203125e-06 L 56.17010498046875 14.38121604919434 L -3.814697265625e-06 14.38121604919434 L -3.814697265625e-06 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Top_cell-28" data-name="Top cell" transform="translate(278.598 208.979)">
+        <g id="Path_2-16" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 55.67011260986328 13.88121604919434 L 0.5000044107437134 13.88121604919434 L 0.5000044107437134 0.4999956488609314 L 55.67011260986328 0.4999956488609314 L 55.67011260986328 13.88121604919434 Z" stroke="none"/>
+          <path d="M 0.9999961853027344 0.999995231628418 L 0.9999961853027344 13.38121604919434 L 55.17010498046875 13.38121604919434 L 55.17010498046875 0.999995231628418 L 0.9999961853027344 0.999995231628418 M -3.814697265625e-06 -4.76837158203125e-06 L 56.17010498046875 -4.76837158203125e-06 L 56.17010498046875 14.38121604919434 L -3.814697265625e-06 14.38121604919434 L -3.814697265625e-06 -4.76837158203125e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Top_cell-29" data-name="Top cell" transform="translate(278.598 139.374)">
+        <g id="Path_2-17" data-name="Path 2" transform="translate(0 0)" fill="#fff">
+          <path d="M 55.67011260986328 13.59358310699463 L 0.5000044107437134 13.59358310699463 L 0.5000044107437134 0.5000029802322388 L 55.67011260986328 0.5000029802322388 L 55.67011260986328 13.59358310699463 Z" stroke="none"/>
+          <path d="M 0.9999961853027344 1.000002861022949 L 0.9999961853027344 13.09358310699463 L 55.17010498046875 13.09358310699463 L 55.17010498046875 1.000002861022949 L 0.9999961853027344 1.000002861022949 M -3.814697265625e-06 2.86102294921875e-06 L 56.17010498046875 2.86102294921875e-06 L 56.17010498046875 14.09358310699463 L -3.814697265625e-06 14.09358310699463 L -3.814697265625e-06 2.86102294921875e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="Path_4" data-name="Path 4" transform="translate(0 13.806)" fill="#fff">
+          <path d="M 55.67011260986328 13.59358310699463 L 0.5000044107437134 13.59358310699463 L 0.5000044107437134 0.5000029802322388 L 55.67011260986328 0.5000029802322388 L 55.67011260986328 13.59358310699463 Z" stroke="none"/>
+          <path d="M 0.9999961853027344 1.000002861022949 L 0.9999961853027344 13.09358310699463 L 55.17010498046875 13.09358310699463 L 55.17010498046875 1.000002861022949 L 0.9999961853027344 1.000002861022949 M -3.814697265625e-06 2.86102294921875e-06 L 56.17010498046875 2.86102294921875e-06 L 56.17010498046875 14.09358310699463 L -3.814697265625e-06 14.09358310699463 L -3.814697265625e-06 2.86102294921875e-06 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+    </g>
+    <g id="ConvertButton">
+      <rect id="Rectangle_17" data-name="Rectangle 17" width="66" height="18" rx="9" transform="translate(327 451)" fill="#6062ff"/>
+      <text id="Convwert" transform="translate(348 462)" fill="#fff" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Convwert</tspan></text>
+    </g>
+  </g>
+</svg>
