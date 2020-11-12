@@ -15,6 +15,10 @@ const polish: LanguageObject = {
         forthSpan: "łatwiejszą",
         descriptionParagraph: `Zamień nie uporządkowane exceloskie tabelki, w przejrzyste i łatwe w utrzymaniu raporty. To łatwiejsze niż sądzisz`,
       },
+      buttonsSection: {
+        joinButton: "Dołącz",
+        demoButton: "Demo",
+      },
     },
   },
 };

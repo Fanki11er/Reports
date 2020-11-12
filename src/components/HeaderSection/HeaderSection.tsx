@@ -1,6 +1,10 @@
 import React, { useContext } from "react";
 import styled from "styled-components";
 import { LanguageContext } from "../../Providers/LanguageProvider/LanguageProvider";
+import {
+  JoinButton,
+  SignInButton as DemoButton,
+} from "../../components/Buttons/Buttons";
 
 const Wrapper = styled.section`
   width: 550px;
@@ -34,6 +38,14 @@ const DescriptionParagraph = styled.p`
   margin: 20px 0 0 0;
 `;
 
+const ButtonsSection = styled.div`
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  height: 60px;
+  margin-top: 50px;
+`;
+
 const HeaderSection = () => {
   const {
     lang: {
@@ -48,6 +60,7 @@ const HeaderSection = () => {
       forthSpan,
       descriptionParagraph,
     },
+    buttonsSection: { joinButton, demoButton },
   } = landingPage;
   return (
     <Wrapper>
@@ -62,6 +75,10 @@ const HeaderSection = () => {
         <GreenSpan>{forthSpan}</GreenSpan>
       </Line>
       <DescriptionParagraph>{descriptionParagraph}</DescriptionParagraph>
+      <ButtonsSection>
+        <DemoButton>{demoButton}</DemoButton>
+        <JoinButton>{joinButton}</JoinButton>
+      </ButtonsSection>
     </Wrapper>
   );
 };

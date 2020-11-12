@@ -15,6 +15,10 @@ const english: LanguageObject = {
         forthSpan: "easier",
         descriptionParagraph: `Convert messy orders from excell tables to tidy and easy to maintain reports. It's easier than you think`,
       },
+      buttonsSection: {
+        joinButton: "Join",
+        demoButton: "Demo",
+      },
     },
   },
 };

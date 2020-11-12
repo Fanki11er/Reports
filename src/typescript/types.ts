@@ -13,6 +13,10 @@ export interface LanguageObject {
         forthSpan: string;
         descriptionParagraph: string;
       };
+      buttonsSection: {
+        joinButton: string;
+        demoButton: string;
+      };
     };
   };
 }
