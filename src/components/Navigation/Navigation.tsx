@@ -10,6 +10,7 @@ const Wrapper = styled.nav`
   width: 450px;
   height: 100%;
   background-color: transparent;
+  z-index: 10;
 `;
 
 const Navigation = () => {

@@ -16,10 +16,12 @@ const LanguageSelect = styled.select`
   border-radius: 12px;
   border: none;
   transition: box-shadow 0.2s, border 0.2s;
+  z-index: 10;
 
   &:hover {
     box-shadow: 0px 0px 4px ${({ theme }) => theme.veryDarkBlue};
     border: 1px solid ${({ theme }) => theme.veryDarkBlue};
+    cursor: pointer;
   }
 `;
 
