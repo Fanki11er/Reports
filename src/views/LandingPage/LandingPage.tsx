@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import AnimatedLaptop from "../../components/AnimatedLaptop/AnimatedLaptop";
+import Footer from "../../components/Footer/Footer";
 import HeaderSection from "../../components/HeaderSection/HeaderSection";
 import TopWrapper from "../../components/TopWrapper/TopWrapper";
 
@@ -17,6 +18,7 @@ const LandingPage = () => {
       <TopWrapper></TopWrapper>
       <HeaderSection />
       <AnimatedLaptop />
+      <Footer />
     </Wrapper>
   );
 };

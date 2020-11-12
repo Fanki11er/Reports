@@ -7,7 +7,9 @@ const theme = {
   lightGreen: "#1BF1B6",
   veryLightGreen: "#B3EADA",
   darkerGreen: "#01B75F",
+  myLogoBlue: "#13B3F2",
   fontSizes: {
+    small: "12px",
     large: "26px",
     medium: "20px",
   },
