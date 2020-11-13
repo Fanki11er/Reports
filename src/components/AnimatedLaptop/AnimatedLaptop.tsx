@@ -5,8 +5,10 @@ import { ReactComponent as Laptop } from "../../assets/svg/LandingAnimation.svg"
 
 const Animation = styled(Laptop)`
   position: absolute;
-  right: -30px;
-  top: -10px;
+  right: -10px;
+  top: 10px;
+  width: 700px;
+  height: 700px;
 `;
 
 const AnimatedLaptop = () => {

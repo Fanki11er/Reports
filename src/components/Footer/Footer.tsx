@@ -3,12 +3,15 @@ import styled from "styled-components";
 import LogoImg from "../../assets/svg/MyLogo.svg";
 
 const FooterWrapper = styled.footer`
+  position: absolute;
   display: flex;
   justify-content: flex-end;
   width: 100vw;
   height: 80px;
   background-color: transparent;
   padding: 0 30px;
+  bottom: 0;
+  left: 0;
 `;
 
 const InfoWrapper = styled.div`

@@ -41,9 +41,9 @@ const DescriptionParagraph = styled.p`
 const ButtonsSection = styled.div`
   display: flex;
   justify-content: space-between;
-  width: 70%;
+  width: 65%;
   height: 60px;
-  margin-top: 50px;
+  margin-top: 60px;
 `;
 
 const HeaderSection = () => {
