@@ -9,6 +9,11 @@ const Animation = styled(Laptop)`
   top: 10px;
   width: 700px;
   height: 700px;
+
+  @media screen and (max-width: 1024px) {
+    width: 620px;
+    height: 620px;
+  }
 `;
 
 const AnimatedLaptop = () => {

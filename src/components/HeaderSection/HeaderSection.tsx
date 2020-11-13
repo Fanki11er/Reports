@@ -12,12 +12,20 @@ const Wrapper = styled.section`
   display: flex;
   flex-direction: column;
   margin: 20px 0 0 120px;
+
+  @media screen and (max-width: 1024px) {
+    width: 400px;
+  }
 `;
 const Span = styled.span`
   font-size: 80px;
   font-weight: bold;
   color: ${({ theme }) => theme.black};
   margin: 0 20px 0 0;
+
+  @media screen and (max-width: 1024px) {
+    font-size: 60px;
+  }
 `;
 const PurpleSpan = styled(Span)`
   color: ${({ theme }) => theme.darkPurple};
@@ -36,6 +44,9 @@ const DescriptionParagraph = styled.p`
   font-size: 26px;
   font-weight: bold;
   margin: 20px 0 0 0;
+  @media screen and (max-width: 1024px) {
+    font-size: 20px;
+  }
 `;
 
 const ButtonsSection = styled.div`
