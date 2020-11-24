@@ -8,6 +8,9 @@ const theme = {
   veryLightGreen: "#B3EADA",
   darkerGreen: "#01B75F",
   myLogoBlue: "#13B3F2",
+  modalBlue: "#A2BCEA",
+  borderBlue: "#11004A",
+  textAreaBackGround: "#ECF6FF",
   fontSizes: {
     small: "12px",
     normal: "16px",
