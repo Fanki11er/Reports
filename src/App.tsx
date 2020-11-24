@@ -1,13 +1,8 @@
 import React from "react";
-import "./App.css";
+import ImportItemsModal from "./components/ImportItemsModal/ImportItemsModal";
 
 function App() {
-  return (
-    <p>
-      {"Test"}
-      <p></p>
-    </p>
-  );
+  return <ImportItemsModal />;
 }
 
 export default App;
