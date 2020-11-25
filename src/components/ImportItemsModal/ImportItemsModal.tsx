@@ -1,12 +1,14 @@
 import React, { Ref, useRef } from "react";
 import styled from "styled-components";
+import { JoinButton as ConvertButton, CancelButton } from "../Buttons/Buttons";
 
 const Header = styled.h2`
   width: 100%;
-  margin: 20px auto 20px auto;
+  margin: 0 auto 40px auto;
   color: ${({ theme }) => theme.borderBlue};
   font-size: ${({ theme }) => theme.fontSizes.large};
   text-align: center;
+  user-select: none;
 `;
 const TextArea = styled.textarea`
   width: 85%;
@@ -14,6 +16,20 @@ const TextArea = styled.textarea`
   border: 1px solid ${({ theme }) => theme.borderBlue};
   background-color: ${({ theme }) => theme.textAreaBackground};
   border-radius: 15px;
+  outline: none;
+  :focus,
+  :hover {
+    border: 1px solid ${({ theme }) => theme.borderBlue};
+    box-shadow: 0px 0px 6px ${({ theme }) => theme.borderBlue};
+  }
+
+  ::placeholder {
+    text-align: center;
+    padding-top: calc(25% - ${({ theme }) => theme.fontSizes.medium});
+    font-size: ${({ theme }) => theme.fontSizes.medium};
+    color: ${({ theme }) => theme.turquoise};
+    font-weight: bold;
+  }
 `;
 
 const ModalWrapper = styled.div`
@@ -29,19 +45,15 @@ const ModalWrapper = styled.div`
   border: none;
   background-color: ${({ theme }) => theme.modalBlue};
   border-radius: 30px;
+  padding: 50px 0;
 `;
 
 const ButtonsWrapper = styled.div`
   width: 100%;
   display: flex;
+  padding: 0 12%;
   justify-content: space-around;
-`;
-
-const Button = styled.button`
-  width: 120px;
-  height: 50px;
-  border-radius: 15px;
-  color: lightblue;
+  margin: 45px 0 0 0;
 `;
 
 const ImportItemsModal = () => {
@@ -77,12 +89,14 @@ const ImportItemsModal = () => {
   return (
     <ModalWrapper>
       <Header>Import items</Header>
-      <TextArea ref={textAreaRef} />
+      <TextArea ref={textAreaRef} placeholder={"Paste tables from excel"} />
       <ButtonsWrapper>
-        <Button onClick={() => convert(textAreaRef, newTab)}>Convert</Button>
+        <ConvertButton>Convert</ConvertButton>
+        <CancelButton>Cancel</CancelButton>
       </ButtonsWrapper>
     </ModalWrapper>
   );
 };
 
 export default ImportItemsModal;
+/*<Button onClick={() => convert(textAreaRef, newTab)}>Convert</Button> */

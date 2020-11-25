@@ -8,6 +8,9 @@ const Button = styled.button`
   font-weight: bold;
   border: none;
   font-family: "Montserrat";
+  :hover {
+    cursor: pointer;
+  }
 
   @media screen and (max-width: 960px) {
     width: 105px;
@@ -40,6 +43,16 @@ export const JoinButton = styled(Button)`
   &:hover {
     box-shadow: 0px 0px 6px ${({ theme }) => theme.darkerGreen};
     border: 1px solid ${({ theme }) => theme.darkerGreen};
+  }
+`;
+
+export const CancelButton = styled(Button)`
+  background-color: ${({ theme }) => theme.cancelPink};
+  color: ${({ theme }) => theme.red};
+  transition: box-shadow 0.2s, border 0.2s;
+  &:hover {
+    box-shadow: 0px 0px 6px ${({ theme }) => theme.red};
+    border: 1px solid ${({ theme }) => theme.red};
   }
 `;
 
